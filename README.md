@@ -1,0 +1,2 @@
+# blog
+gohugo personal website
